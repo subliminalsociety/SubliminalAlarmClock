@@ -1,0 +1,5 @@
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Console_AlarmClock\Console_AlarmClock\bin\Release\net6.0\publish\Console_AlarmClock.exe
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Console_AlarmClock\Console_AlarmClock\bin\Release\net6.0\publish\Console_AlarmClock.dll
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Console_AlarmClock\Console_AlarmClock\bin\Release\net6.0\publish\Console_AlarmClock.deps.json
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Console_AlarmClock\Console_AlarmClock\bin\Release\net6.0\publish\Console_AlarmClock.runtimeconfig.json
+C:\Users\cmen1\RiderProjects\.ProgrammingTutorialProjects\Console_AlarmClock\Console_AlarmClock\bin\Release\net6.0\publish\Console_AlarmClock.pdb
